@@ -4,3 +4,5 @@ Daniel Ballestero -
 Athina Cappelletti
 
 Plataforma usada: Visual Studio Code  - Intelligent idea
+
+Lenguaje usado: Haskell

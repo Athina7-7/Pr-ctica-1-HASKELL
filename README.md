@@ -1,4 +1,4 @@
 # Practica-1-HASKELL
 Integrantes del equipo: 
-Daniel Ballestero
+Daniel Ballestero - 
 Athina Cappelletti
